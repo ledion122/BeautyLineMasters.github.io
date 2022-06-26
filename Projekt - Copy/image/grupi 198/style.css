@@ -1,0 +1,101 @@
+.navhar{
+    color: rgb(206, 187, 187);
+    width: 1350px;
+    height: 60px;
+    left: 0px;
+    right: -10px;
+    bottom: -10px;
+    box-shadow: 0px 6px 30px 4px
+
+
+}
+.firstly-1{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 550px;
+    color: black;
+    font-size: 45px;
+}
+.ref{
+    width: 907px;
+    height: 832px;
+    left: 45px;
+    top: 150px;
+    box-shadow: 0px 19px 30px 4px rgb(206, 187, 187);
+   border-radius: 15px;
+}
+.Last-Dance{
+    position: absolute;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+    left: 360px;
+    top: 100px;
+}
+
+.muzika{
+    position: absolute;
+    width: 450px;
+    height: 880px;
+    left: 200px;
+    top: 150px;
+    font-size: 19px;
+    text-align: center;
+    font-family: 'Noto Serif';
+    color: #575757;
+}
+.div-3{
+    position: absolute;
+    width: 350px;
+    height: 832px;
+    box-shadow: 0px 19px 30px 4px rgb(206, 187, 187);
+    border-radius: 15px;
+    margin-left: 950px;
+    margin-top: -830px;
+}
+.foto{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.dua-lipa{
+    position: absolute;
+    left: 120px;
+    top: 150px;
+    font-family: 'Merriweather';
+    font-size: 20px
+}
+.data{
+    position:absolute ;
+    font-size: 15px;
+    font-family: 'Merriweather';
+    top: 190px;
+    left:105px ;
+    color: #575757;
+}
+.vendi{
+    position:absolute ;
+    font-size: 10px;
+    font-family: 'Merriweather';
+    top: 215px;
+    left:145px ;
+    color: #575757;
+}
+.other-muzik{
+    position:absolute ;
+    font-size: 18px;
+    font-family: 'Merriweather';
+    top: 245px;
+    left:75px ;
+    color: #000000; 
+}
+.lista-e-kengeve{
+    position:absolute ;
+    font-size: 15px;
+    font-family: 'Merriweather';
+    top: 295px;
+    left:35px ;
+    color: #575757;
+    text-align: center;
+}

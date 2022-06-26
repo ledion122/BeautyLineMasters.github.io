@@ -1,0 +1,283 @@
+body{
+    background-color: #d7d7d7;
+  }
+  
+  span{
+    font-size: 12px;
+  }
+  
+
+  .card-1{
+    width: 344px;
+    height: 727px;
+    border-radius: 16px;
+    background-color: white;
+     
+  }
+  .title-price{
+    padding: 17px;
+    font-size: 50px;
+  
+  }
+  
+  .text-1{
+    position: relative;
+    width: 80px;
+     height: 80px;
+    left: 26px;
+    top: -15px;
+  }
+  .Basic-License{
+    position: relative;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 25px;
+    color: #f3b10e;
+    left: 26px;
+  }
+  .text-2{
+    position: relative;
+    left: 26px;
+    font-size: 16px;
+    width: 300px;
+    color: #817d7d;
+  }
+  .img1{
+    position: relative;
+    left: 26px;
+    top: 10px;
+  }
+  .p1{
+    position: relative;
+    left: 50px;
+    font-size: 16px;
+    top: -26px;
+  
+  }
+  .img2{
+    position: relative;
+    left: 26px;
+    top: -10px;
+  }
+  .p2{
+    left: 50px;
+    position: relative;
+    font-size: 16px;
+    bottom: 45px;
+  }
+  .img3{
+    position: relative;
+    left: 26px;
+    top: -25px;
+  }
+  .p3{
+    position: relative;
+    left: 50px;
+    top: -58px;
+  }
+  .img4{
+    position: relative;
+    left: 26px;
+    top: -35px;
+  }
+  .p4{
+    position: relative;
+    left: 50px;
+    bottom: 73px;
+  }
+  .button{
+    position: relative;
+    left: 75px;
+    border-radius: 5px;
+    border: solid gray;
+    width: 200px;
+    height: 30px;
+  }
+  
+  .card-2{
+    width: 344px;
+    height: 727px;
+    border-radius: 16px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -760px;
+
+  }
+  .title-price{
+    padding: 17px;
+    font-size: 50px;
+  
+  }
+  
+  .text-1{
+    position: relative;
+    width: 80px;
+     height: 80px;
+    left: 26px;
+    top: -15px;
+  }
+  .Basic-License1{
+    position: relative;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 25px;
+    color: #1DABF2;
+    left: 26px;
+  }
+  .text-2{
+    position: relative;
+    left: 26px;
+    font-size: 16px;
+    width: 300px;
+    color: #817d7d;
+  }
+  .img1{
+    position: relative;
+    left: 26px;
+    top: 10px;
+  }
+  .p1{
+    position: relative;
+    left: 50px;
+    font-size: 16px;
+    top: -26px;
+  
+  }
+  .img2{
+    position: relative;
+    left: 26px;
+    top: -10px;
+  }
+  .p2{
+    left: 50px;
+    position: relative;
+    font-size: 16px;
+    bottom: 45px;
+  }
+  .img3{
+    position: relative;
+    left: 26px;
+    top: -25px;
+  }
+  .p3{
+    position: relative;
+    left: 50px;
+    top: -58px;
+  }
+  .img4{
+    position: relative;
+    left: 26px;
+    top: -35px;
+  }
+  .p4{
+    position: relative;
+    left: 50px;
+    bottom: 73px;
+  }
+  .button{
+    position: relative;
+    left: 75px;
+    border-radius: 5px;
+    border: solid gray;
+    width: 200px;
+    height: 30px;
+  }
+  
+
+  .card-3{
+    width: 344px;
+    height: 727px;
+    border-radius: 16px;
+    background-color: white;
+    margin-left: 800px;
+    margin-top: -760px;
+
+  }
+  .title-price{
+    padding: 17px;
+    font-size: 50px;
+  
+  }
+  
+  .text-1{
+    position: relative;
+    width: 80px;
+     height: 80px;
+    left: 26px;
+    top: -15px;
+  }
+  .Basic-License2{
+    position: relative;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 25px;
+    color: #46D68C;
+    left: 26px;
+  }
+  .text-2{
+    position: relative;
+    left: 26px;
+    font-size: 16px;
+    width: 300px;
+    color: #817d7d;
+  }
+  .img1{
+    position: relative;
+    left: 26px;
+    top: 10px;
+  }
+  .p1{
+    position: relative;
+    left: 50px;
+    font-size: 16px;
+    top: -26px;
+  
+  }
+  .img2{
+    position: relative;
+    left: 26px;
+    top: -10px;
+  }
+  .p2{
+    left: 50px;
+    position: relative;
+    font-size: 16px;
+    bottom: 45px;
+  }
+  .img3{
+    position: relative;
+    left: 26px;
+    top: -25px;
+  }
+  .p3{
+    position: relative;
+    left: 50px;
+    top: -58px;
+  }
+  .img4{
+    position: relative;
+    left: 26px;
+    top: -35px;
+  }
+  .p4{
+    position: relative;
+    left: 50px;
+    bottom: 73px;
+  }
+  .button2{
+    position: relative;
+    left: 75px;
+    border-radius: 5px;
+    border: solid gray;
+    width: 200px;
+    height: 30px;
+    background: green
+  }
+  
+  

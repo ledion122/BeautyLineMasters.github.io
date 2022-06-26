@@ -1,0 +1,16 @@
+body{
+    background-color: #673ab7;
+}
+h1{
+    font-size: 40px;
+    color: #ffeb3b;
+}
+h2{font-size: 25px;
+color: #ffc107;}
+p{font-size: 18px;
+color: #ccdc39;}
+em{color: #ff5722;}
+p , h1 , h2 {
+    text-align: center;
+}
+
